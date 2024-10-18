@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SkPang</title>
+  <icon>http://shikangpang.github.io/icon.png</icon>
+  
+  <link href="http://shikangpang.github.io/feed.xml" rel="self"/>
+  
+  <link href="http://shikangpang.github.io/"/>
+  <updated>2024-10-16T12:33:07.871Z</updated>
+  <id>http://shikangpang.github.io/</id>
+  
+  <author>
+    <name>Shikang Pang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sobel Operator</title>
+    <link href="http://shikangpang.github.io/blog/Sobel%20Operator/"/>
+    <id>http://shikangpang.github.io/blog/Sobel%20Operator/</id>
+    <published>2024-10-16T12:16:37.000Z</published>
+    <updated>2024-10-16T12:33:07.871Z</updated>
+    
+    
+    
+    
+    <category term="blog" scheme="http://shikangpang.github.io/blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>life</title>
+    <link href="http://shikangpang.github.io/life/life/"/>
+    <id>http://shikangpang.github.io/life/life/</id>
+    <published>2024-10-16T12:16:37.000Z</published>
+    <updated>2024-10-16T12:21:43.980Z</updated>
+    
+    
+    
+    
+    <category term="life" scheme="http://shikangpang.github.io/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>detection</title>
+    <link href="http://shikangpang.github.io/detection/"/>
+    <id>http://shikangpang.github.io/detection/</id>
+    <published>2024-10-16T07:39:07.000Z</published>
+    <updated>2024-10-16T11:55:55.786Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>百年孤独</title>
+    <link href="http://shikangpang.github.io/readings/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/"/>
+    <id>http://shikangpang.github.io/readings/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/</id>
+    <published>2024-10-16T05:59:30.000Z</published>
+    <updated>2024-10-16T11:55:39.317Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="readings" scheme="http://shikangpang.github.io/readings/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://shikangpang.github.io/"/>
+    <id>http://shikangpang.github.io/</id>
+    <published>2024-10-15T12:22:27.000Z</published>
+    <updated>2024-10-17T09:14:28.304Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Personal Information&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Name&lt;/strong&gt;: Shikang Pang&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact&lt;/strong&gt;: &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>OpenAI GPT Models</title>
+    <link href="http://shikangpang.github.io/articles/OpenAI%20GPT%20Models/"/>
+    <id>http://shikangpang.github.io/articles/OpenAI%20GPT%20Models/</id>
+    <published>2024-03-11T12:16:37.000Z</published>
+    <updated>2024-10-17T13:25:31.929Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;p&gt;OpenAI Generative Pre-trained Transformer (GPT) models are a series of transformer</summary>
+    
+    
+    
+    <category term="articles" scheme="http://shikangpang.github.io/articles/"/>
+    
+    
+    <category term="Deep Learning" scheme="http://shikangpang.github.io/tags/Deep-Learning/"/>
+    
+    <category term="Inference Optimization" scheme="http://shikangpang.github.io/tags/Inference-Optimization/"/>
+    
+    <category term="Transformer" scheme="http://shikangpang.github.io/tags/Transformer/"/>
+    
+    <category term="GPT" scheme="http://shikangpang.github.io/tags/GPT/"/>
+    
+    <category term="OpenAI" scheme="http://shikangpang.github.io/tags/OpenAI/"/>
+    
+    <category term="ChatGPT" scheme="http://shikangpang.github.io/tags/ChatGPT/"/>
+    
+    <category term="ACCELERATED COMPUTING" scheme="http://shikangpang.github.io/tags/ACCELERATED-COMPUTING/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浅谈LLM</title>
+    <link href="http://shikangpang.github.io/articles/%E6%B5%85%E8%B0%88LLM/"/>
+    <id>http://shikangpang.github.io/articles/%E6%B5%85%E8%B0%88LLM/</id>
+    <published>2024-03-11T12:16:37.000Z</published>
+    <updated>2024-10-18T12:16:37.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;LLM是什么&quot;&gt;&lt;a href=&quot;#LLM是什么&quot; class=&quot;headerlink&quot; title=&quot;LLM是什么&quot;&gt;&lt;/a&gt;LLM是什么&lt;/h1&gt;&lt;p&gt;指的是包含超大规模参数（通常在十亿个以上）的神经网络模型，这些模型在自然语言处理领域得到了广泛应用。</summary>
+        
+      
+    
+    
+    
+    <category term="articles" scheme="http://shikangpang.github.io/articles/"/>
+    
+    
+    <category term="Deep Learning" scheme="http://shikangpang.github.io/tags/Deep-Learning/"/>
+    
+    <category term="Inference Optimization" scheme="http://shikangpang.github.io/tags/Inference-Optimization/"/>
+    
+    <category term="Transformer" scheme="http://shikangpang.github.io/tags/Transformer/"/>
+    
+    <category term="GPT" scheme="http://shikangpang.github.io/tags/GPT/"/>
+    
+    <category term="OpenAI" scheme="http://shikangpang.github.io/tags/OpenAI/"/>
+    
+    <category term="ChatGPT" scheme="http://shikangpang.github.io/tags/ChatGPT/"/>
+    
+    <category term="ACCELERATED COMPUTING" scheme="http://shikangpang.github.io/tags/ACCELERATED-COMPUTING/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>论知足常乐</title>
+    <link href="http://shikangpang.github.io/essays/%E8%AE%BA%E7%9F%A5%E8%B6%B3%E5%B8%B8%E4%B9%90/"/>
+    <id>http://shikangpang.github.io/essays/%E8%AE%BA%E7%9F%A5%E8%B6%B3%E5%B8%B8%E4%B9%90/</id>
+    <published>2022-10-16T12:16:37.000Z</published>
+    <updated>2024-10-17T13:36:00.397Z</updated>
+    
+    
+    
+    
+    <category term="essays" scheme="http://shikangpang.github.io/essays/"/>
+    
+    
+  </entry>
+  
+</feed>
