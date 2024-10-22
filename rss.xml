@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SkPang</title>
+    <link>http://shikangpang.github.io/</link>
+    
+    <image>
+      <url>http://shikangpang.github.io/icon.png</url>
+      <title>SkPang</title>
+      <link>http://shikangpang.github.io/</link>
+    </image>
+    
+    <atom:link href="http://shikangpang.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Wed, 16 Oct 2024 12:33:07 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Sobel Operator</title>
+      <link>http://shikangpang.github.io/blog/Sobel%20Operator/</link>
+      <guid>http://shikangpang.github.io/blog/Sobel%20Operator/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:16:37 GMT</pubDate>
+      
+      
+      
+      
+      <category domain="http://shikangpang.github.io//blog/">blog</category>
+      
+      
+      
+      <comments>http://shikangpang.github.io/blog/Sobel%20Operator/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>http://shikangpang.github.io/life/life/</link>
+      <guid>http://shikangpang.github.io/life/life/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:16:37 GMT</pubDate>
+      
+      
+      
+      
+      <category domain="http://shikangpang.github.io//life/">life</category>
+      
+      
+      
+      <comments>http://shikangpang.github.io/life/life/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>detection</title>
+      <link>http://shikangpang.github.io/detection/</link>
+      <guid>http://shikangpang.github.io/detection/</guid>
+      <pubDate>Wed, 16 Oct 2024 07:39:07 GMT</pubDate>
+      
+      
+      
+      
+      
+      
+      <comments>http://shikangpang.github.io/detection/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>百年孤独</title>
+      <link>http://shikangpang.github.io/readings/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/</link>
+      <guid>http://shikangpang.github.io/readings/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/</guid>
+      <pubDate>Wed, 16 Oct 2024 05:59:30 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://shikangpang.github.io//readings/">readings</category>
+      
+      
+      
+      <comments>http://shikangpang.github.io/readings/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://shikangpang.github.io/</link>
+      <guid>http://shikangpang.github.io/</guid>
+      <pubDate>Tue, 15 Oct 2024 11:36:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;Shikang-Pang&quot;&gt;&lt;a href=&quot;#Shikang-Pang&quot; class=&quot;headerlink&quot; title=&quot;Shikang Pang&quot;&gt;&lt;/a&gt;Shikang Pang&lt;/h1&gt;&lt;h1 id=&quot;Who-am-I&quot;&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://shikangpang.github.io/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>OpenAI GPT Models</title>
+      <link>http://shikangpang.github.io/articles/OpenAI%20GPT%20Models/</link>
+      <guid>http://shikangpang.github.io/articles/OpenAI%20GPT%20Models/</guid>
+      <pubDate>Mon, 11 Mar 2024 12:16:37 GMT</pubDate>
+      
+      <description>&lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;p&gt;OpenAI Generative Pre-trained Transformer (GPT) models are a series of transformer</description>
+      
+      
+      
+      
+      <category domain="http://shikangpang.github.io//articles/">articles</category>
+      
+      
+      <category domain="http://shikangpang.github.io/tags/Deep-Learning/">Deep Learning</category>
+      
+      <category domain="http://shikangpang.github.io/tags/Inference-Optimization/">Inference Optimization</category>
+      
+      <category domain="http://shikangpang.github.io/tags/Transformer/">Transformer</category>
+      
+      <category domain="http://shikangpang.github.io/tags/GPT/">GPT</category>
+      
+      <category domain="http://shikangpang.github.io/tags/OpenAI/">OpenAI</category>
+      
+      <category domain="http://shikangpang.github.io/tags/ChatGPT/">ChatGPT</category>
+      
+      <category domain="http://shikangpang.github.io/tags/ACCELERATED-COMPUTING/">ACCELERATED COMPUTING</category>
+      
+      
+      <comments>http://shikangpang.github.io/articles/OpenAI%20GPT%20Models/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>浅谈LLM</title>
+      <link>http://shikangpang.github.io/articles/%E6%B5%85%E8%B0%88LLM/</link>
+      <guid>http://shikangpang.github.io/articles/%E6%B5%85%E8%B0%88LLM/</guid>
+      <pubDate>Mon, 11 Mar 2024 12:16:37 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;LLM是什么&quot;&gt;&lt;a href=&quot;#LLM是什么&quot; class=&quot;headerlink&quot; title=&quot;LLM是什么&quot;&gt;&lt;/a&gt;LLM是什么&lt;/h1&gt;&lt;p&gt;指的是包含超大规模参数（通常在十亿个以上）的神经网络模型，这些模型在自然语言处理领域得到了广泛应用。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://shikangpang.github.io//articles/">articles</category>
+      
+      
+      <category domain="http://shikangpang.github.io/tags/Deep-Learning/">Deep Learning</category>
+      
+      <category domain="http://shikangpang.github.io/tags/Inference-Optimization/">Inference Optimization</category>
+      
+      <category domain="http://shikangpang.github.io/tags/Transformer/">Transformer</category>
+      
+      <category domain="http://shikangpang.github.io/tags/GPT/">GPT</category>
+      
+      <category domain="http://shikangpang.github.io/tags/OpenAI/">OpenAI</category>
+      
+      <category domain="http://shikangpang.github.io/tags/ChatGPT/">ChatGPT</category>
+      
+      <category domain="http://shikangpang.github.io/tags/ACCELERATED-COMPUTING/">ACCELERATED COMPUTING</category>
+      
+      
+      <comments>http://shikangpang.github.io/articles/%E6%B5%85%E8%B0%88LLM/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>论知足常乐</title>
+      <link>http://shikangpang.github.io/essays/%E8%AE%BA%E7%9F%A5%E8%B6%B3%E5%B8%B8%E4%B9%90/</link>
+      <guid>http://shikangpang.github.io/essays/%E8%AE%BA%E7%9F%A5%E8%B6%B3%E5%B8%B8%E4%B9%90/</guid>
+      <pubDate>Sun, 16 Oct 2022 12:16:37 GMT</pubDate>
+      
+      
+      
+      
+      <category domain="http://shikangpang.github.io//essays/">essays</category>
+      
+      
+      
+      <comments>http://shikangpang.github.io/essays/%E8%AE%BA%E7%9F%A5%E8%B6%B3%E5%B8%B8%E4%B9%90/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
